@@ -1,3 +1,6 @@
+'''
+ㅇㄴ 이거 이미지잖어
+'''
 from transformers import FuyuProcessor, FuyuForCausalLM
 from PIL import Image
 import requests

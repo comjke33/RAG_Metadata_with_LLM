@@ -1,3 +1,7 @@
+'''
+openai embedding을 써야함.
+그냥 무료 gemini embedding써볼까
+'''
 import os
 
 os.environ["OPENAI_API_KEY"] = "sk-"
