@@ -1,0 +1,45 @@
+Question: What is the date range for the validity of the legal review of the KB Star 정기예금 product description?
+Answer: The legal review of the KB Star 정기예금 product description is valid from July 1, 2024, to May 31, 2026.
+
+Question: What is the document ID assigned to the legal review of the KB Star 정기예금 product description?
+Answer: The document ID assigned to the legal review of this product description is 2024-3154-3.
+
+Question: What is unique about the KB Star 정기예금 product?
+Answer: The KB Star 정기예금 product is an online-only time deposit account, accessible only through non-face-to-face channels like internet banking.
+
+Question: What is the purpose of the document titled "KB Star 정기예금 상품설명서"?
+Answer: This document provides a product description of the KB Star 정기예금, outlining its features and terms.
+
+Question: What specific characteristic of the KB Star 정기예금 is highlighted in the "상품특징" section?
+Answer: The document emphasizes that the KB Star 정기예금 is exclusively available online through non-face-to-face channels like internet banking.
+
+Question: What information is expected to follow the "구 분" and "내 용" headings in the document?
+Answer: The "구 분" and "내 용" headings likely introduce a table or list that will further detail specific aspects of the KB Star 정기예금, starting with eligibility criteria ("가입자격").
+
+Question: According to this section of the document, who is eligible to open a KB Star 정기예금 account?
+Answer: Both individuals and individual business owners are eligible to open a KB Star 정기예금 account.
+
+Question: What category of financial product does the KB Star 정기예금 fall under?
+Answer: The KB Star 정기예금 is classified as a time deposit account, known as "정기예금" in Korean.
+
+Question: What is the relationship between the "구 분" and "내 용" columns in this document?
+Answer:  The "구 분" column lists categories of information about the KB Star 정기예금, while the "내 용" column provides the corresponding details for each category.
+
+Question: What is the minimum deposit required to open a KB Star 정기예금 account?
+Answer: The minimum opening deposit required for a KB Star 정기예금 account is 1,000,000 Korean Won.
+
+Question: Can a KB Star 정기예금 account holder make additional deposits to their account after opening it?
+Answer: No, additional deposits are not allowed for the KB Star 정기예금 account once it has been opened.
+
+Question: What information is expected to be presented after the "가입기간" heading in this document?
+Answer: The "가입기간" heading likely precedes information regarding the available terms or durations for the KB Star 정기예금 account.
+
+Question: What is the shortest term available for a KB Star 정기예금 account?
+Answer: The shortest term available for a KB Star 정기예금 account is one month.
+
+Question: What is the maximum term a customer can choose for a KB Star 정기예금 account?
+Answer: The maximum term a customer can choose for a KB Star 정기예금 account is 36 months.
+
+Question:  Through which channels can a customer open a KB Star 정기예금 account?
+Answer: Customers can open a KB Star 정기예금 account through internet banking, the KB Star Banking app, or the customer service center, while opening an account at a physical branch is not allowed.
+

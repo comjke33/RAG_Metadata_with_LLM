@@ -5,11 +5,7 @@
 
 """
 
-# source_text: 
-input_file_path = "./ip15pro_en.txt"
-
-# input_subject = "The following article is about the BMW XM."
-output_file_path = "./ip15pro_slidingw_line6_test.txt"
+import os
 
 def extract_sentences(input_file, output_file):
 
@@ -19,7 +15,7 @@ def extract_sentences(input_file, output_file):
     result = []
     
     start_index = 0
-    end_index = 6
+    end_index = 14
     while start_index < len(lines):
 
         # result.append(input_subject + '\n')  # 원하는 문장 추가
@@ -27,13 +23,13 @@ def extract_sentences(input_file, output_file):
         result.extend(chunk)
         result.append('\n')  
         
-        start_index += 3
-        end_index += 3
+        start_index += 7
+        end_index += 7
         
         if end_index > len(lines):
 
             # result.append('\n' + input_subject + '\n')
-            result.extend(lines[-6:])  
+            result.extend(lines[-7:])  
             result.append('\n')
             break
 
@@ -41,4 +37,14 @@ def extract_sentences(input_file, output_file):
         file.writelines(result)
 
 # extract_sentences(input_file_path, output_file_path, input_subject)
-extract_sentences(input_file_path, output_file_path)
+
+input_folder_path = './original_dataset'
+output_folder_path = './sliding_window'
+
+for filename in os.listdir(input_folder_path):
+    if filename.endswith(".txt"):
+        file_path = os.path.join(input_folder_path, filename)
+    
+    input_file_path = file_path
+    output_file_path = output_folder_path + "/" + os.path.splitext(filename)[0] + "_sw.txt"
+    extract_sentences(input_file_path, output_file_path)

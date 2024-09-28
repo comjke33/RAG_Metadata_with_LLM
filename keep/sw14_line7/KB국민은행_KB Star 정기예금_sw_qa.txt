@@ -1,0 +1,27 @@
+Question: What is the availability period for the KB Star Term Deposit as mentioned in the document?
+Answer: The KB Star Term Deposit is available for subscription from July 1, 2024, to May 31, 2026.
+
+Question: What is the minimum deposit requirement for the KB Star Term Deposit?
+Answer: The minimum deposit required to open a KB Star Term Deposit is 1 million won.
+
+Question: Who is eligible to open a KB Star Term Deposit account?
+Answer: Both individuals and individual business owners are eligible to open a KB Star Term Deposit account.
+
+Question: What are the available term lengths for the KB Star Term Deposit?
+Answer: The KB Star Term Deposit offers maturity terms ranging from a minimum of one month to a maximum of 36 months, in monthly increments.
+
+Question: Can customers open a KB Star Term Deposit account at a physical branch?
+Answer: No, customers can only open a KB Star Term Deposit account through online channels or the call center, as branch applications are not allowed.
+
+Question: Besides closing the account at maturity, what other methods are available for customers to terminate their KB Star Term Deposit?
+Answer: Customers can terminate their KB Star Term Deposit through a branch visit, online banking, or the KB Star Banking app.
+
+Question: What happens to the principal and interest at maturity if the "automatic renewal (principal)" option is chosen for the KB Star Term Deposit?
+Answer:  If the "automatic renewal (principal)" option is chosen, only the principal will be automatically reinvested at maturity with the interest deposited into the designated account.
+
+Question: What is the process for receiving funds upon maturity with the "automatic redemption" option for the KB Star Term Deposit?
+Answer: With the "automatic redemption" option, the entire maturity amount, including both principal and interest, will be deposited into the designated account on the maturity date.
+
+Question: Where can customers download the KB Star Banking app?
+Answer: The KB Star Banking app can be downloaded from either the Play Store (Android) or the App Store (iOS).
+
