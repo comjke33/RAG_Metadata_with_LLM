@@ -65,7 +65,7 @@ for filename in os.listdir(input_folder_path):
         print(gemini_answer)
 
         filtered_answers = []
-        lines = gemini_answer.split("\n")
+        lines = [line for line in gemini_answer.splitlines() if line.strip() != '']
         i = 0
         qa_count = 0
         while i < len(lines) - 1 and qa_count < 3:

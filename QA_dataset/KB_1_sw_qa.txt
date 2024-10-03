@@ -1,0 +1,45 @@
+Question: What is the interest rate structure for the "국민수퍼정기예금" product offered by KB Kookmin Bank?
+Answer: The "국민수퍼정기예금" offers three interest rate structures: fixed interest rate, short-term rate linkage, and CD rate linkage.
+
+Question: What is the validity period of the provided information for KB Kookmin Bank's "국민수퍼정기예금" product?
+Answer: The provided information regarding KB Kookmin Bank's "국민수퍼정기예금" is valid from August 5, 2024, to July 31, 2026.
+
+Question:  Who is authorized to open an account for KB Kookmin Bank's "국민수퍼정기예금" product?
+Answer: There are no restrictions on who can open a "국민수퍼정기예금" account.
+
+Question: How often does the interest rate change for the "단위기간금리연동형" (short-term rate linkage) option of the product?
+Answer: The interest rate for the "단위기간금리연동형" option changes at the beginning of each defined short-term period within the total contract period.
+
+Question: What are the available durations for the "고정금리형" (fixed interest rate) option?
+Answer: The "고정금리형" option can be opened for a duration of one month to 36 months, calculated in days or whole months.
+
+Question: What is the minimum investment period for the "단위기간금리연동형" (short-term rate linkage) option?
+Answer: The  "단위기간금리연동형" option requires a minimum investment period of 12 months.
+
+Question: What are the possible "연동(회전)단위기간" (revolving unit periods) for the "단위기간금리연동형" (short-term rate linkage) option?
+Answer: The "단위기간금리연동형" offers revolving unit periods of 1 to 6 months, or 30 to 181 days.
+
+Question: What is the minimum initial deposit required to open this particular term deposit account?
+Answer:  The minimum initial deposit required is KRW 1,000,000 (one million Korean Won).
+
+Question: How many times can a customer make additional deposits into a newly opened account of this type?
+Answer: Customers are allowed to make up to 30 additional deposits into a newly opened account, including the initial deposit.
+
+Question: Through which channels can individual customers open the described term deposit account?
+Answer: Individual customers can open the term deposit account at bank branches or by contacting the customer service center.
+
+Question: What are the available durations for the "CD금리연동형" (CD rate linkage) option?
+Answer: The "CD금리연동형" offers investment durations of 6 months, 1 year, 2 years, and 3 years.
+
+Question: Can corporate customers open this particular term deposit account through KB Star Banking?
+Answer: No, corporate customers cannot open this particular term deposit account via KB Star Banking.
+
+Question: Where can corporate customers close their "CD금리연동형" (CD rate linkage) term deposit account?
+Answer: Corporate customers can only close their "CD금리연동형" term deposit accounts at bank branches.
+
+Question: Through which channels can corporate customers open this term deposit product?
+Answer: Corporate customers can open this term deposit product at bank branches, via internet banking, or KB Star Business Banking.
+
+Question: What is the restriction for closing a minor's term deposit account that was opened at a bank branch with additional deposits made in person?
+Answer: A minor's term deposit account opened at a branch with in-person additional deposits can only be closed at a branch.
+
