@@ -23,9 +23,11 @@ chat_session = model.start_chat(
 )
 
 input_folder_path = "./QA_dataset"
+output_file_path = "./metadata/"
 
 # 질문 리스트를 저장할 리스트
 
+result = ""
 for filename in os.listdir(input_folder_path):
     if filename.endswith(".txt"):
         file_path = os.path.join(input_folder_path, filename)
@@ -41,11 +43,12 @@ for filename in os.listdir(input_folder_path):
     
     responses = []
     for q in questions:    
-        prompt = q + "Give me metadata about this question."
+        prompt = q + "Give me topic about this question."
         response = chat_session.send_message(prompt)
 
         responses.append(response.text)
+        print(response.text)
 
     result = "\n".join(responses)
-    print(result)
-    
+    with open(output_file_path+filename[:-4], 'w', encoding='utf-8') as file:
+      file.write(result)
